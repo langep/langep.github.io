@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
+title: Halef
+description: multi-modal spoken dialog system
 img:
 ---
 
