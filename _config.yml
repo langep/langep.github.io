@@ -4,7 +4,7 @@
 name: Patrick Lange
 email: patrick.l.lange@gmail.com
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website and 'speech-controlled' blog.
 
 url: https://www.langep.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
