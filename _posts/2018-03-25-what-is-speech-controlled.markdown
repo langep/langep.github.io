@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  what is speech-controlled
-date:   2018-03-25 18:53:16
-description: 
+date:   2018-03-25 23:12:16
+description: an obligatory first post
 ---
 
 What is speech-controlled? For me, speech-controlled is a platform to share my
