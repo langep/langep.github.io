@@ -13,7 +13,14 @@
   {% if entry.type == "mastersthesis" %}
   <span class="title">{{entry.title}}</span>
   <span class="author">
-      <em>{{author.last}}, {{author.first}}</em>
+      {% for author in entry.author_array %}
+        {% if forloop.first %}
+          <em>{{author.last}}, {{author.first}}</em>
+        {% elsif %}
+          and
+          <em>{{author.last}}, {{author.first}}</em>
+        {% endif %}
+      {% endfor %}
   </span>
   {% else %}
     <span class="title">{{entry.title}}</span>
