@@ -53,7 +53,7 @@
 
     <span class="periodical">
     {% if entry.type == "mastersthesis" %}
-        <em>{{entry.school}},</em>
+      <em>{{entry.school}},</em>
     {% elsif entry.type == "article" %}
       <em>{{entry.journal}},</em>
     {% elsif entry.type == "inproceedings" %}
@@ -66,6 +66,19 @@
     {% if entry.year %}
       {{entry.year}}
     {% endif %}
+    </span>
+  {% endif %}
+
+  {% if entry.advisors %}
+    <span class="author">
+        {% for advisor in entry.advisor_array %}
+        {% if forloop.first %}
+          <em>{{advisor.last}}, {{advisor.first}}</em>
+        {% else %}
+          and
+          <em>{{advisor.last}}, {{advisor.first}}</em>
+        {% endif %}
+      {% endfor %}
     </span>
   {% endif %}
 
