@@ -16,7 +16,7 @@
       {% for author in entry.author_array %}
         {% if forloop.first %}
           <em>{{author.last}}, {{author.first}}</em>
-        {% elsif %}
+        {% else %}
           and
           <em>{{author.last}}, {{author.first}}</em>
         {% endif %}
