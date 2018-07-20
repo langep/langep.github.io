@@ -11,6 +11,7 @@
 
 <div id="{{entry.key}}">
   {% if entry.type == "mastersthesis" %}
+  {{entry}}
   <span class="title">{{entry.title}}</span>
   <span class="author">
       {% for author in entry.author_array %}
