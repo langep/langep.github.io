@@ -19,8 +19,8 @@ news: false
 social: true
 ---
 
-I am software engineer and researcher interested in building complex systems
-based on state of the art research. My current intersts lie in machine
+I am a software engineer and researcher interested in building complex systems
+based on state of the art research. My current interests lie in machine
 learning topics related to speech and image processing such as speech
 recognition, speaker identification, dialogic applications, spoken language
 understanding, natural language understanding and real-time engagement
