@@ -6,7 +6,7 @@ email: mail@langep.com
 description: > # this means to ignore newlines until "url:"
   Personal website and 'speech-controlled' blog.
 
-url: https://www.langep.com # the base hostname & protocol for your site
+url: "https://www.langep.com" # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: 2019-03-10 # leave blank if you don't want to display last updated
 
