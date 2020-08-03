@@ -20,6 +20,6 @@ news: false
 social: true
 ---
 
-I am a Software Development Engineer at Amazon working on applications of conversational AI research. Prior to joining Amazon, I was a Senior Research Engineer in the R&D division at Educational Testing Service (ETS) where I led the engineering efforts in the design and development of a service providing real-time speaking feedback to English language learners as well as ETS' spoken dialog system providing interactive practice opportunities.
+I am a Software Development Engineer at Amazon working on applications of conversational AI research. Prior to joining Amazon, I was a Senior Research Engineer in the R&D division at Educational Testing Service (ETS) where I led the engineering efforts in the design and development of a service providing real-time speaking feedback to English language learners as well as ETS' spoken dialog system providing opportunities for interactive speaking practice.
 
 When I do not try to talk to my computer, I like to develop small video games or try out new technology. I do enjoy continuous learning and am currently pursuing a Ph.D. in Computer Science in the NLP Group at UC Davis as a part-time student.
